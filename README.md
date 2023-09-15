@@ -1,6 +1,7 @@
 # R_ScratchSegmented
 
-## アンダーバー（Storyboard）
+## memo
+### アンダーバー（Storyboard設定）
 - 位置
   - 親ビューに対して、Leading:0, Bottom: 0
 - サイズ
